@@ -1,0 +1,4 @@
+id_tipo_seguro,tipo,categoria,riesgo_base,motivo_rechazo
+1,Pyme,Familiar,,riesgo_vacio
+4,Industrial,Personal,,riesgo_vacio
+12,Agrícola,Nan,,riesgo_vacio
